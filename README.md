@@ -1,5 +1,4 @@
 # 👤 Personal Expense Tracker — Complete Setup Guide
-**Live demo : **  https://4kbzd58s-3000.inc1.devtunnels.ms/
 
 ## What is this project?
 A full-stack personal expense tracker where you can:
